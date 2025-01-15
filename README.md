@@ -10,7 +10,7 @@ Please feel free to connect with me and share any suggestions, improvements, or 
 
 One last thing: 'Stay Hungry, Stay Foolish'.
 
-### 🧰 Languages and Tools
+<h3>👨‍💻 Programming and Markup Languages</h3>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
