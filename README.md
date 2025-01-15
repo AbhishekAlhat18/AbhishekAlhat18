@@ -27,7 +27,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
   <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
 
-
+<br>
 
  <h3>🧰 Frameworks and Libraries</h3>
 
@@ -40,6 +40,8 @@ One last thing: 'Stay Hungry, Stay Foolish'.
  <img align="left" alt="Numpy" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
  <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </p>
+
+<br>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
