@@ -9,6 +9,7 @@ With experience as a Software Developer, I have contributed to developing innova
 Please feel free to connect with me and share any suggestions, improvements, or feedback on my projects. If you find any of my projects interesting and have ideas on how we can add new features and take the project forward, please let me know! Also, if you have any ideas for potential collaboration on projects that go beyond just immediate goals and focus on creating transformative user experiences and making a lasting impact, I would love to be a part of it.
 
 One last thing: 'Stay Hungry, Stay Foolish'.
+
 ---
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
