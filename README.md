@@ -28,6 +28,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 </p>
  
  <br><br>
+ #
 
 <h3>🧰 Frameworks and Libraries</h3>
 
@@ -42,6 +43,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 </p>
 
   <br><br> 
+  #
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
@@ -52,6 +54,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 </p>
 
   <br><br> 
+  #
 
 <h3>💻 Software and Tools</h3>
 
@@ -59,7 +62,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
    <img align="left" alt="Git" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"    />
    <img align="left" alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"    />
    <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"    />
-   <img align="left" alt="Postman" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg"    />
+   <img align="left" alt="Postman" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"    />
    
 
 
