@@ -10,7 +10,7 @@ Please feel free to connect with me and share any suggestions, improvements, or 
 
 One last thing: 'Stay Hungry, Stay Foolish'.
 
----
+#
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
