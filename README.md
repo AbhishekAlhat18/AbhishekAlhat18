@@ -26,7 +26,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
   <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
-
+ #
 <br><br>
 
  <h3>🧰 Frameworks and Libraries</h3>
@@ -57,7 +57,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 
 <p>
    
-   <img align="left" alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"    />
+   <img align="left" alt="IntelliJ" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"    />
 
    <img align="left" alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"    />
    <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"    />
