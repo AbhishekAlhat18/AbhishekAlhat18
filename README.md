@@ -10,7 +10,7 @@ Please feel free to connect with me and share any suggestions, improvements, or 
 
 One last thing: 'Stay Hungry, Stay Foolish'.
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+### 👨‍💻 Programming and Markup Languages
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -24,7 +24,9 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br>
 
-<h3>🧰 Frameworks and Libraries</h3>
+#
+
+### 🧰 Frameworks and Libraries
 
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Junit" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
@@ -33,8 +35,12 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 <img align="left" alt="Express.js" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
 <img align="left" alt="Numpy" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<br>
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+#
+
+### 🗄️ Databases and Cloud Hosting
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+#
+
 
