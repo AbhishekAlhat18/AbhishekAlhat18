@@ -41,9 +41,13 @@ One last thing: 'Stay Hungry, Stay Foolish'.
  <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </p>
 
-<br><br><br> <!-- Add enough line breaks for spacing -->
+<br><br> 
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
+ <p>
+    <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="left" alt="Postgres" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
+ </p>
 
 
 
