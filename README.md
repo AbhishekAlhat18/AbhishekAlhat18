@@ -1,6 +1,6 @@
 # Abhishek Alhat👨‍💻
 
-### **`Software Developer`** <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+### **`Software Developer`** <img align="center" alt="Terminal" width="22px" src="./img/terminal-dark.svg" />
 
 Hello, World! I'm Abhishek Alhat, a passionate software developer. All my coding projects are built from the ground up, starting from planning and designing to solving real-life problems with code. I love building things using various tools and technologies to help people, solve their problems, and, most importantly, make their interactions with technology smoother and more intuitive.
 
