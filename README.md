@@ -37,7 +37,8 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <br>
 
-### 🗄️ Databases and Cloud Hosting
+<h3>🗄️ Databases and Cloud Hosting</h3>h3>
+
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
 
