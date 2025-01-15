@@ -27,7 +27,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
   <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
 
-<br>
+<br><br>
 
  <h3>🧰 Frameworks and Libraries</h3>
 
@@ -44,6 +44,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 <br><br> 
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
+
  <p>
     <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
     <img align="left" alt="Postgres" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
