@@ -41,7 +41,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
  <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </p>
 
-<br>
+<br><br><br> <!-- Add enough line breaks for spacing -->
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
