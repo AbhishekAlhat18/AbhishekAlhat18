@@ -30,14 +30,13 @@ One last thing: 'Stay Hungry, Stay Foolish'.
 <img align="left" alt="Junit" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" />
 <img align="left" alt="Angular" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Express.js" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
-<img align="left" alt="Numpy" width="65px" style="padding-right:10px;  margin-bottom:-20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="Numpy" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 
 
 
-
+<img align="left" alt="Express.js" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
 
 
 
