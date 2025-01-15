@@ -26,10 +26,8 @@ One last thing: 'Stay Hungry, Stay Foolish'.
   <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
-
-#
  
-<br><br>
+ <br><br>
 
 <h3>🧰 Frameworks and Libraries</h3>
 
@@ -43,9 +41,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
  <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 </p>
 
-#
-
-<br><br> 
+  <br><br> 
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
@@ -53,18 +49,15 @@ One last thing: 'Stay Hungry, Stay Foolish'.
     <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
     <img align="left" alt="Postgres" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
     <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
- </p>
+</p>
 
- #
-
-<br><br> 
+  <br><br> 
 
 <h3>💻 Software and Tools</h3>
 
 <p>
    
    <img align="left" alt="IntelliJ" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"    />
-
    <img align="left" alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"    />
    <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"    />
 
