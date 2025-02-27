@@ -2,7 +2,7 @@
 
 ### **`Software Developer`** <img align="center" alt="Terminal" width="24px" src="./img/terminal-dark.svg" />
 
-Hello, World! I'm Abhishek Alhat, a passionate software developer. All my coding projects are built from the ground up, starting from planning and designing to solving real-life problems with code. I love building things using various tools and technologies to help people, solve their problems, and, most importantly, make their interactions with technology smoother and more intuitive.
+Hello, World! I'm Abhishek Alhat, a passionate software developer. All my coding projects are built from the ground up, starting from planning and designing to solving real-life problems with code. I love building things using using technology to solve real-world problems, help people, and make their interactions with technology smoother and more intuitive.
 
 With experience as a Software Developer, I have contributed to developing innovative, technology-driven full-stack applications. This experience has helped me see the “big picture” of software development, from writing code to deploying impactful solutions into the hands of users. It’s incredibly motivating to see how the lines of code I write can transform into meaningful solutions that truly make a difference in people’s lives and address real-world challenges. I am fascinated and inspired by the endless opportunities to learn about how different technologies interact throughout the software development and deployment process. I enjoy diving deep into the end-to-end software development journey. Developing full-stack applications helps me achieve this by allowing me to learn, grow, and gain a holistic perspective on software development.
 
