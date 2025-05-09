@@ -60,7 +60,7 @@ One last thing: 'Stay Hungry, Stay Foolish'.
   <br><br> 
   #
 
-<h3> Cloud & DevOps </h3>
+<h3>☁️ Cloud & DevOps </h3>
 
  <p>
     <img align="left" alt="AWS" width="50px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
